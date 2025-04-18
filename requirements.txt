@@ -1,0 +1,4 @@
+Flask
+twilio
+google-cloud-dialogflow==2.25.1
+gunicorn
